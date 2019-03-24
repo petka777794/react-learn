@@ -1,0 +1,13 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.item-add-form input {
+    margin-right: 3px;
+    width: calc(100% - 95px);
+    display: inline-block;
+}
+
+.item-add-form button {
+    vertical-align: top;
+}
